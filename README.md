@@ -1,4 +1,4 @@
-# Rust für das Betriebssytem
+# Rust für das Betriebssystem
 
 Folien und weiterführende Unterlagen zur Veranstaltung an der Hochschule Darmstadt am 27. Juni 2023
 
